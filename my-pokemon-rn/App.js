@@ -6,7 +6,7 @@ import Detail from './components/Detail';
 import styles from './assets/styles';
 import store from './store';
 import { Provider } from 'react-redux';
-
+y
 const Stack = createNativeStackNavigator()
 export default function App() {
   return (
